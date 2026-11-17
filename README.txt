@@ -21,6 +21,11 @@ Reference: https://areenamahek.github.io/AreenaMahek/
 
 INTERACTIVE & ENGAGEMENT FEATURES ADDED
 ---------------------------------------
+0. Dual Theme Mode (Light / Dark & System Configuration Auto-Detection):
+   - Header toggle button (Sun/Moon animated icons) for 1-click theme switching.
+   - Automatically adapts to the visitor's OS configuration (`prefers-color-scheme: dark/light`).
+   - Remembers preference across browser reloads via `localStorage`.
+   - Includes full dark mode palette (Midnight Obsidian Plum #0f0c15).
 1. Reading & Scroll Progress Bar:
    - Dynamic 3.5px gradient line at the top of the viewport indicating scroll depth.
 2. Active Navbar Scrollspy:
@@ -48,7 +53,7 @@ INTERACTIVE & ENGAGEMENT FEATURES ADDED
 13. Dedicated Resume View:
     - Exact reproduction of the reference site's /resume page with working embedded PDF preview and high-fidelity download.
 14. Embedded Real Production Screenshots:
-    - KaamMitra and Hazard Analysis & Ranking System (HARS) cards feature real web app screenshots embedded as base64 with smooth zoom hover and modal preview.
+    - KaamMitra, Hazard Analysis & Ranking System (HARS), and Computer Anudeshak Exam Prep cards feature real web app screenshots embedded as base64 with smooth zoom hover and modal preview.
 15. Recommendations:
     - Feature recommendation from Karan Singh Rathore, Software Developer @ JRS Innovation, with quotation badge, date, and LinkedIn profile link.
 
@@ -66,6 +71,7 @@ LinkedIn: https://www.linkedin.com/in/priyanka-meena-012939255/
 GitHub:   https://github.com/Priyanka-meena85
 KaamMitra (Live Demo): https://kaammitra-blue.vercel.app/
 HARS (Live Demo):      https://hazard-analysis.vercel.app/
+Computer Anudeshak Exam Prep (Live Demo): https://exam-prep-platform-delta.vercel.app/
 AI Content Automation Engine (GitHub): https://github.com/Priyanka-meena85/auto-fill-json-data
-Phone:    +91 85039 96575
+Location: Jaipur, Rajasthan, India
 Email:    Priyankameena4656@gmail.com
