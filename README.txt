@@ -53,7 +53,7 @@ INTERACTIVE & ENGAGEMENT FEATURES ADDED
 13. Dedicated Resume View:
     - Exact reproduction of the reference site's /resume page with working embedded PDF preview and high-fidelity download.
 14. Embedded Real Production Screenshots:
-    - KaamMitra, Hazard Analysis & Ranking System (HARS), and Computer Anudeshak Exam Prep cards feature real web app screenshots embedded as base64 with smooth zoom hover and modal preview.
+    - KaamMitra, The Optical Hub, CareWell Clinic, RentMitraa, and ForgeFlow cards feature real web app screenshots embedded as base64 with smooth zoom hover and modal preview.
 15. Recommendations:
     - Feature recommendation from Karan Singh Rathore, Software Developer @ JRS Innovation, with quotation badge, date, and LinkedIn profile link.
 
@@ -69,9 +69,11 @@ LINKS WIRED IN
 ---------------
 LinkedIn: https://www.linkedin.com/in/priyanka-meena-012939255/
 GitHub:   https://github.com/Priyanka-meena85
-KaamMitra (Live Demo): https://kaammitra-blue.vercel.app/
-HARS (Live Demo):      https://hazard-analysis.vercel.app/
-Computer Anudeshak Exam Prep (Live Demo): https://exam-prep-platform-delta.vercel.app/
+KaamMitra (Live Demo):       https://kaammitra-blue.vercel.app/
+The Optical Hub (Live Demo): https://theopticalhub.vercel.app/
+CareWell Clinic (Live Demo): https://clinic-demo-self-xi.vercel.app/
+RentMitraa (Live Demo):      https://rentmitra-ruby.vercel.app/
+ForgeFlow (Live Demo):       https://forgeflow-three-khaki.vercel.app/
 AI Content Automation Engine (GitHub): https://github.com/Priyanka-meena85/auto-fill-json-data
 Location: Jaipur, Rajasthan, India
 Email:    Priyankameena4656@gmail.com
